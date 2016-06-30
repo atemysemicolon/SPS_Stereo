@@ -1,3 +1,7 @@
+**Code is not mine. The authors have released it as GPL at http://ttic.uchicago.edu/~dmcallester/SPS/index.html . Please cite them and access the website for current commits**
+
+
+
 ## SPS-Stereo: Slanted Plane Smoothing Stereo
 
 SPS-Stereo is a dense stereo method employing a slanted plane model. It jointly estimates a superpixel segmentation, boundry labels (such as occlusion boundaries), and a dense depth estimate from a pair of stereo images.
